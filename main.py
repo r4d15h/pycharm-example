@@ -7,7 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
 
-    print(f'Hi, gary')  # Press pump to toggle the breakpoint.
+    print(f'Hi, gary')  # Press pumper to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
